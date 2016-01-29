@@ -237,15 +237,15 @@ function create_config( )
     "help",
     "all",
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {163402568,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {90312082},--Realms Id
+    realm = {163402568},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     TeleDark Anti Spam Bot v3.0
 
-  📢 Channel : @TeleDarkCh
-  👤 Admin : @AmirDark
+  📢 Channel : @lionbot4
+  👤 Admin : @a1d2m3i4n_lionbot_m
 
   🙏 Special Thanks :
 
